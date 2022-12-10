@@ -40,7 +40,7 @@ while True:
             print("now start the game by pressing enter ")
 
 
-# girl and knight char
+#girl and knight char
 
       elif w_i == "girl" and W_I_2 == "knight":
             print("nice, you are a knight you start from the city of knights or GLADITOR")
